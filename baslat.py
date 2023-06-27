@@ -10,7 +10,7 @@ console = Console()
 banner = pyfiglet.figlet_format("TAKIPCI", font="slant")
 console.print(
    f"[bold red]{banner}",
-   "Creator: swantex",
+   "Creator: furka nsecurity",
    "Channel: @öztürk yalçın",
 
    sep = "\n",
